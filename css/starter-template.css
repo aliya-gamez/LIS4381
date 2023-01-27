@@ -1,0 +1,27 @@
+body
+{
+  padding-top: 50px;
+}
+.starter-template
+{
+  padding: 0px 15px;
+  text-align: center;
+}
+h1
+{
+	margin: 0px;     
+	color: darkolivegreen;
+	padding: 0px;
+	font-size: 48px;
+	font-family: "trebuchet ms", sans-serif; 
+	text-shadow: 2px 2px yellowgreen;
+}
+img
+{
+	border: 3px solid black;
+}
+
+.navbar-inverse
+{
+	background-image: linear-gradient(to bottom,#3c3c3c 0,darkolivegreen 100%);
+}

@@ -1,0 +1,5 @@
+- change global_student_files directory to global
+- keep following files in this directory:
+    - nav.php: for assignment/project links
+    - nav_global.php: for index.php in root directory
+    - both footer.php and header.php for index.php in root directory
